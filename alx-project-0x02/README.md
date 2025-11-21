@@ -21,7 +21,7 @@ The goal of this repository is to establish a baseline project environment that 
 ## 🗂️ Project Structure (Initial)
 
 ```folder
-alx-project-2/
+alx-project-0x02/
 ├── components/
 │   └── layout/
 │       └── Header.tsx
@@ -50,7 +50,7 @@ alx-project-2/
 ```bash
 git clone https://github.com/D0nG4667/alx-project-0x02-setup.git
 cd alx-project-0x02-setup
-cd alx-project-2
+cd alx-project-0x02
 ```
 
 ### 2. Install dependencies
